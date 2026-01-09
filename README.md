@@ -1,11 +1,23 @@
-# 👋 Hi, I’m Menna Elsayed
+<div align="center">
 
-**Data Science & AI Student | Generative AI • LLMs • RAG • Agentic AI**
+# Hi there, I'm Menna Elsayed
 
-I’m a Data Science and AI student passionate about building **end-to-end AI systems** and transforming data into intelligent, real-world solutions.  
-My work spans **Machine Learning, Computer Vision, NLP, and modern Generative AI applications**.
+### Bridging data, intelligence, and real-world impact through AI systems.
+
+<br/>
+
+**Data Science & AI Student**  
+Machine Learning • NLP • Computer Vision  
+**Generative AI • LLMs • RAG • Agentic AI**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MennaElsayed2&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
+
 
 ## 🚀 About Me
 
