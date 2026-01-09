@@ -77,8 +77,9 @@ Here are some highlighted areas from my GitHub repositories:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MennaElsayed2&show_icons=true&theme=dark&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api?username=MennaElsayed2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MennaElsayed2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MennaElsayed2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🌐 Connect With Me
