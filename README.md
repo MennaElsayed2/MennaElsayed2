@@ -1,18 +1,17 @@
 <div align="center">
 
-# Hi there, I'm Menna Elsayed
+# Hi there, I'm Menna Elsayed 👋
 
-### Bridging data, intelligence, and real-world impact through AI systems.
-
-<br/>
-
-**Data Science & AI Student**  
-Machine Learning • NLP • Computer Vision  
-**Generative AI • LLMs • RAG • Agentic AI**
+### Data Science & AI Student  
+### Generative AI • LLMs • RAG • Agentic AI
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MennaElsayed2&label=Profile%20Views&color=0e75b6&style=flat" />
+**Building intelligent systems that transform data into real-world solutions.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MennaElsayed2&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
