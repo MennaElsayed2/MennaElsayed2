@@ -1,17 +1,18 @@
 <div align="center">
 
-<h1>Hi there, I'm Menna Elsayed 👋</h1>
+<h1>Hi, I’m Menna Elsayed 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Student;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;Building+intelligent+AI+systems+for+real-world+impact" />
+<p><strong>Building intelligent AI systems for real-world impact.</strong></p>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Student;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Designing+scalable+and+interpretable+AI+systems" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=MennaElsayed2&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
-
 
 
 
@@ -42,24 +43,27 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-### Languages & Data
-- Python, SQL
+### Programming & Data
+- **Python**, **SQL** — data processing, analysis, and model development
 
 ### Machine Learning & AI
-- Scikit-learn, PyTorch, TensorFlow, Keras
-- NLP, Computer Vision, Generative AI
-- LLMs, RAG, Agentic AI
+- **Classical ML & Deep Learning**: Scikit-learn, PyTorch, TensorFlow, Keras  
+- **Natural Language Processing**: text classification, embeddings, LLM pipelines  
+- **Computer Vision**: image classification and deep learning workflows  
+- **Generative AI**: LLM-based applications, RAG architectures, Agentic AI systems  
 
-### Data & MLOps
-- Pandas, NumPy, MLflow
+### Data Engineering & MLOps
+- **Data Analysis**: Pandas, NumPy  
+- **Experiment Tracking**: MLflow  
 
 ### Databases
-- MySQL, MongoDB
+- **Relational & NoSQL**: MySQL, MongoDB  
 
-### Tools
-- Git, GitHub
+### Development Tools
+- **Version Control & Collaboration**: Git, GitHub
+
 
 ---
 
@@ -83,12 +87,30 @@ Here are some highlighted areas from my GitHub repositories:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Performance
 
-![](https://github-readme-stats.vercel.app/api?username=MennaElsayed2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MennaElsayed2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MennaElsayed2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<!-- Overall GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MennaElsayed2&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+
+<!-- Contribution Streak -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MennaElsayed2&theme=dark&hide_border=true" />
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaElsayed2&layout=compact&theme=dark&hide_border=true" />
+
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MennaElsayed2&theme=react-dark&hide_border=true" />
+
+</div>
+
 ---
+
 
 ## 🌐 Connect With Me
 
