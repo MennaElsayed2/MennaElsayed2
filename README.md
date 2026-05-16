@@ -44,11 +44,6 @@ Check my repositories below for full implementations and documentation.
 
 ---
 
-## GitHub Stats & Activity
-![](https://github-readme-stats.vercel.app/api?username=Mayed2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MennaElsayed2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MennaElsayed2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)Menna Elsayed
----
 
 ## Connect With Me
 
